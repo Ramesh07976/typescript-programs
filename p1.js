@@ -1,0 +1,17 @@
+"use strict";
+exports.__esModule = true;
+var x = 10;
+console.log(x);
+var fullName = 'Ramesh';
+var lastName = 'Kumar';
+var mobile = 98761415543;
+var Email = 'rameshkumar07976@gmail.com';
+var complete = "My Name is " + fullName + " " + lastName + " And My Mobile number " + mobile + " Email Id " + Email;
+console.log(complete);
+var Name = 'kamu';
+console.log(Name);
+var n = null;
+var u = undefined;
+var isNew = null;
+var myName = undefined;
+console.log(n, u, isNew);
